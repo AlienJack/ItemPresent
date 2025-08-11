@@ -5,3 +5,6 @@ Library/
 Temp/
 UserSettings/
 obj/
+/.vsconfig
+Logs/
+ProjectSettings/
